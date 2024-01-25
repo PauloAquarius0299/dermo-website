@@ -6,8 +6,8 @@ Criei uma interface ecommerce animada e intuitiva sobre produtos para cuidado co
 ## 🧼 Introdução
 A interface animada apresenta um visual agradavel, limpo e com fresco que remete a venda do produto ecommerce. Com React criei toda interface e estilizei com CSS puro, colocando textos e imagens por 3 tipos de angulos distintos, meio, direita e esquerda, alem de anima-las.
 
-###💡 Pre-Requisitos 
-Intsação do React com o Vite para facilitar a aplicação e a estilização do CSS puro junto frame-motion 
+### 💡 Pre-Requisitos 
+Intalação do React com o Vite para facilitar a aplicação e a estilização do CSS puro junto frame-motion 
 
 ###🛠️ Ferramentas
 ![image](https://github.com/PauloAquarius0299/dermo-website/assets/114706743/f1811012-e72d-40ea-90c2-6f0c90ba4211)
